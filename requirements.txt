@@ -1,0 +1,15 @@
+
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+pydantic
+pydantic-settings
+python-multipart
+pdfplumber
+python-docx
+passlib[argon2]
+PyJWT
+alembic
+greenlet
+python-dotenv
